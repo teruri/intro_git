@@ -6,3 +6,5 @@ git commit
 git rm
 git status
 git diff
+git checkout
+git reset
